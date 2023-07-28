@@ -1,0 +1,16 @@
+					Algorithme maximum; 
+	Var: 
+		n,max : entiers;
+	Debuts
+	 	Pour i ---> 1 à 20 pas de 1:
+         	 	Ecrire "entrez un nombre";
+         	 	Lire nombre;
+	 		Si i = 1 alors ;
+				max <--- nombre
+	 		Sinon si mombre > max
+        			max <---- nombre;
+			Fin si
+        		Ecrire "le mombre numéro", i, " : "nombre
+		Fin pour
+			Écrire " le plus grand de ce nombre "
+	Fin.
