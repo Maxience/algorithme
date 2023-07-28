@@ -1,0 +1,15 @@
+
+							Algorithme multiplication;
+	var: 
+		t,i,n: entiers;
+		
+	Debut
+		Ecrire" Entrez un nombre réel entre 10 à 20";
+		lire n;
+		Ecrire" Table de ",n;
+		Pour i--->1 à 10 Pas de 1:
+			t<---n*i;
+		  Ecrire n,"*",i,"=",t ;
+		Fin Pour;
+		
+	Fin 
