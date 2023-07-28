@@ -1,0 +1,19 @@
+						Algorithme nombre;
+
+	Var:
+
+		n, i: reels;
+
+	Debut:
+
+		Ecrire "entrer un nombre″;
+
+		Lire : n
+
+		Pour i---> 1 à 10 faire:
+
+		  Ecrire "n+i" ;
+
+		Fin pour
+
+	Fin.
