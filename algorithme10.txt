@@ -1,0 +1,13 @@
+
+							Algorithme 10_nombre_avec_Pour;
+	var: 
+		n: entiers;
+		
+	Debut
+		Ecrire" Entrez un nombre réel entre 10 à 20";
+		lire n;
+		Pour i--->1 à 10 Pas de 1:
+		  Ecrire n+1;
+		Fin Pour;
+		
+	Fin
