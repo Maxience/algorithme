@@ -1,0 +1,15 @@
+							Algorithme 10_nombre;
+	var: 
+		t,c,n: entiers;
+		
+	Debut
+		Ecrire" Entrez un nombre réel entre 10 à 20";
+		lire n;
+			c<---1;
+		Tant que c<=10 faire:
+			T<---n+c;
+		  Ecrire "le resultat est",T;
+			c<---c+1;
+		Fin Tant que
+		
+	Fin
