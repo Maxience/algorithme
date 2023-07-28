@@ -1,0 +1,15 @@
+						Algorithme 10_à_20;
+	var: 
+		n: entiers;
+		
+	Debut
+		Repeter
+			Ecrire" Entrez un nombre réel entre 10 à 20";
+			lire n;
+			si n>=20 alors:
+		 	 Ecrire "Plus petit!";
+			Sinon si n<= 10 alors:
+			 Ecrire "Plus grand!";
+ 			Fin si
+		jusqu'a n>=10 et n<=20;
+	Fin
