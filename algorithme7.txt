@@ -1,0 +1,11 @@
+						Algorithme de_1_à_3;
+	var: 
+		i,n: entiers;
+		
+	Debut
+		repeter
+			Ecrire" Entrez un nombre réel";
+			lire n;
+		jusqu'a n>=1 et n<=3;
+	Fin
+
